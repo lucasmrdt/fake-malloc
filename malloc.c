@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <stdlib.h>
 
-#define RATE (10)
+#define RATE (100)
 
 void *malloc(size_t size)
 {
